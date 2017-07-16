@@ -1,0 +1,26 @@
+Udacity - Introduction to Coding Nanodgree
+
+Fullstack developer (elective) - Final Project
+
+Swiss Style Pairing Tournament - using Python, and PostgreSQL
+
+
+This is an implementation of (the first round of) a Swiss-system tournament.
+
+This project will be using a Python module (tournament.py) that uses a PostgreSQL database 
+
+Included files:
+
+tournament.py
+tournament.sql
+tournament_test.py
+README.txt
+
+1.The tournament.py: this file is used to provide access to your database via a library of functions which can add, delete or query data in your database to another python program
+
+2.The tournament_test.py Python: this is a client program which will use your functions written in the tournament.py module
+
+3.The tournament.sql file contains the SQL code for the data base
+
+
+
